@@ -1,5 +1,9 @@
 @import "palette.css";
 
+html {
+    height: 100vh;
+}
+
 h1 {
     color: var(--mainColor);
 }
